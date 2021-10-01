@@ -30,7 +30,7 @@ sed -i 's/luci-theme-bootstrap/luci-theme-material/g' ./feeds/luci/collections/l
 # ==========luci-theme-url==========
 # git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git package/luci-theme-atmaterial
 # svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-theme-edge package/luci-theme-edge
-# Add luci-app-passwall
+Add luci-app-passwall
 svn co https://github.com/xiaorouji/openwrt-passwall/trunk package/openwrt-passwall
 
 #
