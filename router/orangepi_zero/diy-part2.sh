@@ -32,8 +32,6 @@ git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packag
 # svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-theme-edge package/luci-theme-edge
 Add luci-app-passwall
 svn co https://github.com/xiaorouji/openwrt-passwall/trunk package/openwrt-passwall
-src-git helloworld https://github.com/fw876/helloworld
-src-git passwall https://github.com/xiaorouji/openwrt-passwall
 #
 # ------------------------------- Other ends -------------------------------
 
